@@ -1,7 +1,7 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://camo.githubusercontent.com/ec89b8111244d80b67af14394884cb74a36e8afde5a69ec9cf2ad3b056017ba5/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313430302f302a635072465f584d65375536617459674d2e676966)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://cdn.dribbble.com/users/1102230/screenshots/3308591/media/fbce00b2acca2b07f4e988883f33f442.gif)
 <h1 align="center">Hi 👋, I'm Mashiur Rahman Sohel</h1>
 <h3 align="center">A Data science aspirant from Bangladesh</h3>
-<img align="right" alt="Coding" width="400" src=https://indoanalytica.com/static/images/data-science-1.gif
+<img align="right" alt="Coding" width="400" src=https://cdn.dribbble.com/users/1102230/screenshots/3308591/media/fbce00b2acca2b07f4e988883f33f442.gif
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mashiursohel&label=Profile%20views&color=0e75b6&style=flat" alt="mashiursohel" /> </p>
 
